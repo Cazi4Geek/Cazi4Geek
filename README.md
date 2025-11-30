@@ -95,8 +95,8 @@ I'm **Casimir Adoumadji**, an IT Helpdesk Specialist with Masters of Science Deg
 ## 📜 Certifications
 
 - **Cisco Certified Network Associate (CCNA) 200-301**  
-  ![Image](https://github.com/user-attachments/assets/63f38ae8-e6ed-4d92-a525-5697e52e86c3)  
-  **  
+  ![Image](https://github.com/user-attachments/assets/e32ac637-7eb7-4ca1-be71-ef22935d935f)  
+  
   [View certification](https://drive.google.com/file/d/1fW9WAnNbotPxIse1qIWISzYrDWK2e3Ek/view?usp=drive_link) <br>
   
 
